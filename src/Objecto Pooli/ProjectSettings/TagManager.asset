@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Platforms
+  - Enemy
+  - Powerup
+  - Player
   - 
   - 
   - 
@@ -40,4 +40,19 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4155284657
+    locked: 0
+  - name: Platform
+    uniqueID: 1220899803
+    locked: 0
+  - name: Enemy
+    uniqueID: 3302986903
+    locked: 0
+  - name: Powerup
+    uniqueID: 1643586975
+    locked: 0
+  - name: Player
+    uniqueID: 2725471695
     locked: 0
